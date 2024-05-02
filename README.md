@@ -53,3 +53,8 @@ Step 6: Change the SLA. Since the Ticket is considered an emergency, the SLA sho
 > ![image](https://github.com/EMoniSmall/osTicketLife/assets/166156618/0cae9bac-1231-4e58-9417-235f0986839e)
 
 Step 7: Click back into the ticket. Update in the ticket thread that the issue has been fixed and change the Ticket Status to resolved. You'll see back in the Tickets page that the ticket has disappeared. 
+
+> [!Important]
+> From here, you should have a basic knowledge of osTicket from [Installtion](https://github.com/EMoniSmall/osInstall), [Configuration](https://github.com/EMoniSmall/osPostConfig), to ticket troubleshooting. You can continue to create and edit permissions for agents, departments and user to continue practicing.
+
+<b>This concludes the osTicket and Ticket Lifecycle Guide.</b>
